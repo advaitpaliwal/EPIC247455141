@@ -1,0 +1,2 @@
+!! No astronomical object found : 
+ coord 69.5301937321491 21.8426395336362 (ICRS, J2000, 2000.0), radius: 10 arcsec

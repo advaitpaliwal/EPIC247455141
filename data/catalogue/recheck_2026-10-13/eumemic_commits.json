@@ -1,0 +1,27 @@
+[
+ {
+  "sha": "da722613164640f3fa9232551a3172c913417b90",
+  "date": "2026-10-13T07:39:06Z",
+  "title": "Merge PR #13: match Gaia DR3 at epoch 2016.0 in the binary check"
+ },
+ {
+  "sha": "60d3d640b3fa180fb15223b50effe891751d07a0",
+  "date": "2026-10-13T07:39:00Z",
+  "title": "Merge PR #12: accept any QLP product version in the light-curve index"
+ },
+ {
+  "sha": "4ea04de1dfd6df66cfb96fb44911b9cf53a6a896",
+  "date": "2026-10-13T06:15:47Z",
+  "title": "Match Gaia DR3 at epoch 2016.0 in binary_check"
+ },
+ {
+  "sha": "08c6c3f1514feb15694f15f518fb54786b939d44",
+  "date": "2026-10-13T06:14:36Z",
+  "title": "Leave the README changelog to the authors"
+ },
+ {
+  "sha": "7306851276db6309aee8f53973d8db8b05508252",
+  "date": "2026-10-13T06:14:03Z",
+  "title": "Accept any QLP product version in the light-curve index"
+ }
+]

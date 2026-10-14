@@ -1,0 +1,60 @@
+{
+ "tpf": "k2-deep/247455141/lc/mastDownload/K2/ktwo247455141-c13_lc/ktwo247455141-c13_lpd-targ.fits.gz",
+ "n_in_cadences": 37,
+ "n_fake": 60,
+ "target_pix_colrow": [
+  3.6197053736729377,
+  2.7260838139675845
+ ],
+ "oot_centroid": [
+  3.6903725961498384,
+  2.6825509425753022
+ ],
+ "diff_centroid": [
+  3.7167861616450497,
+  2.498653764946035
+ ],
+ "diff_centroid_err": [
+  0.3958336604678553,
+  0.29311518732020003
+ ],
+ "offset_pix": [
+  0.026413565495211344,
+  -0.18389717762926727
+ ],
+ "offset_arcsec": 0.739421966615197,
+ "offset_sigma": 0.6309274325838885,
+ "offset_from_gaia_pix": [
+  0.09708078797211206,
+  -0.2274300490215495
+ ],
+ "peak_diff_pixel": [
+  3,
+  5
+ ],
+ "brightest_oot_pixel": [
+  4,
+  3
+ ],
+ "depth_ap_ppm": 856.0638525523245,
+ "depth_core4_ppm": 928.2828541472554,
+ "depth_ring_ppm": 245.09287322871387,
+ "depth_big_ppm": 817.4962131306529,
+ "depth_ap_err_ppm": 397.25994873046875,
+ "depth_core4_err_ppm": 1918.389892578125,
+ "depth_ring_err_ppm": 9242.3173828125,
+ "max_pixel_snr": 1.7517638206481934,
+ "snr_summed_ap": 0.31364884972572327,
+ "null": {
+  "real_offset_arcsec": 0.739421966615197,
+  "n_fake": 60,
+  "fake_offset_arcsec_pct": {
+   "p16": 0.8392328355164967,
+   "p50": 1.6944535039730484,
+   "p84": 2.383489504351704,
+   "p95": 3.008171426875025
+  },
+  "frac_fake_offset_ge_real": 0.8666666666666667,
+  "fake_depth_ap_std_ppm": 397.25994873046875
+ }
+}

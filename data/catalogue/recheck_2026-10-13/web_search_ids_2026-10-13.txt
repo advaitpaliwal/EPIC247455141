@@ -1,0 +1,8 @@
+Web search on all IDs of EPIC 247455141, run 2026-10-13.
+1) WebSearch: "EPIC 247455141" OR "TIC 118598568" OR "EPIC247455141"
+   Returned: arxiv.org/pdf/1807.10298 (EPIC 246851721), arxiv.org/pdf/2404.16625, arxiv.org/pdf/1808.00575 (EPIC 246471491), arxiv.org/pdf/2105.08223, en.wikipedia.org/wiki/K2-296b, arxiv.org/pdf/2202.05790, and non-astronomy "EPIC" pages. None mention any ID of this star.
+2) WebSearch: "2MASS J04380724+2150334" OR "144850112816196992" OR "UCAC4 560-010539"
+   Returned: Wikipedia pages for other 2MASS brown dwarfs (J04070752+1546457, J09373487+2931409, J03480772-6022270, J12195156+3128497, J05325346+8246465, J15031961+2525196, J09393548-2448279, J11145133-2618235, J04151954-0935066). None mention any ID of this star.
+3) Exa web_search_exa: "EPIC 247455141 K2 Campaign 13 planet candidate" (10 results)
+   Returned: iopscience 10.3847/1538-3881/aaeed7 (EPIC 247267267), ar5iv 2007.12744 (Castro-Gonzalez et al. 2020, cool dwarfs C12-C15; highlights list no EPIC 247455141), exoplanetarchive K2Numbers.html, searcharxiv 1803.02858 (HD 286123 / HD 89345), iopscience aa9791 (EPIC 247589423, Mann+2018 ZEIT VI), par.nsf.gov 10166245, NEA K2-13 overview, iopscience aa89f2 (Dressing+2017), arxiv 1503.07866v3 (Montet+2015). None mention EPIC 247455141, TIC 118598568, Gaia DR3 144850112816196992 or 2MASS J04380724+2150334.
+Result: no page found that mentions any identifier of this star.

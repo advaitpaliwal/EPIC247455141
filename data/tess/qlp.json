@@ -1,0 +1,82 @@
+{
+ "43": {
+  "npts": 2823,
+  "cadence_min": 10.0009001998842,
+  "mad_rms_ppm": 17444.17808007098,
+  "rms_1h_ppm": 7121.876413711628,
+  "b": {
+   "n_epochs_from_K2": 529,
+   "sigma_Tmid_h": 3.1581270351298487,
+   "n_in": 44,
+   "expected_snr": 0.41352715725685935,
+   "box_depth_ppm": -3882.0707887464723,
+   "box_err_ppm": 2629.808793988076,
+   "scan_max_snr": 1.8570136978973313,
+   "scan_trials": 57
+  },
+  "c": {
+   "n_epochs_from_K2": 298,
+   "sigma_Tmid_h": 4.1628775932725555,
+   "n_in": 36,
+   "expected_snr": 0.30652149896617686,
+   "box_depth_ppm": -9064.376398002283,
+   "box_err_ppm": 2907.363013345163,
+   "scan_max_snr": 2.2574949191767075,
+   "scan_trials": 59
+  }
+ },
+ "44": {
+  "npts": 2948,
+  "cadence_min": 10.000622126972303,
+  "mad_rms_ppm": 16173.516763527097,
+  "rms_1h_ppm": 6603.015955631626,
+  "b": {
+   "n_epochs_from_K2": 538,
+   "sigma_Tmid_h": 3.211846467658655,
+   "n_in": 55,
+   "expected_snr": 0.49866064101074375,
+   "box_depth_ppm": -622.6924945955669,
+   "box_err_ppm": 2180.836555503382,
+   "scan_max_snr": 2.2785601853454662,
+   "scan_trials": 58
+  },
+  "c": {
+   "n_epochs_from_K2": 303,
+   "sigma_Tmid_h": 4.232709574885988,
+   "n_in": 41,
+   "expected_snr": 0.35281550875497325,
+   "box_depth_ppm": 1693.7573858624155,
+   "box_err_ppm": 2525.8789559284596,
+   "scan_max_snr": 2.930239895628919,
+   "scan_trials": 60
+  }
+ },
+ "71": {
+  "npts": 9236,
+  "cadence_min": 3.3335192229424138,
+  "mad_rms_ppm": 28306.0800114109,
+  "rms_1h_ppm": 6671.993071972755,
+  "b": {
+   "n_epochs_from_K2": 776,
+   "sigma_Tmid_h": 4.632470899519945,
+   "n_in": 193,
+   "expected_snr": 0.5337367831522808,
+   "box_depth_ppm": -326.1239612908362,
+   "box_err_ppm": 2037.5162234166355,
+   "scan_max_snr": 1.4791978987698045,
+   "scan_trials": 83
+  },
+  "c": {
+   "n_epochs_from_K2": 437,
+   "sigma_Tmid_h": 6.104269896239666,
+   "n_in": 123,
+   "expected_snr": 0.34916686824963233,
+   "box_depth_ppm": 4500.047821202391,
+   "box_err_ppm": 2552.2732822755975,
+   "scan_max_snr": 3.1907638504683358,
+   "scan_trials": 87
+  }
+ },
+ "combined_expected_snr_b": 0.8393700604452901,
+ "combined_expected_snr_c": 0.5833967041642921
+}

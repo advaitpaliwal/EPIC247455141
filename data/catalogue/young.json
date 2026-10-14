@@ -1,0 +1,258 @@
+{
+ "target": {
+  "plx": 6.7936,
+  "pmra": 57.653,
+  "pmdec": 2.141,
+  "rv": 57.2
+ },
+ "Taurus_Luhman2018": {
+  "J/AJ/156/271/table1": {
+   "n": 438,
+   "cols": [
+    "_RAJ2000",
+    "_DEJ2000",
+    "_r",
+    "recno",
+    "2MASS",
+    "UGCS",
+    "OName",
+    "RAJ2000",
+    "DEJ2000",
+    "rPos",
+    "SpType",
+    "pmRA",
+    "e_pmRA",
+    "pmDE",
+    "e_pmDE",
+    "plx",
+    "e_plx",
+    "RV",
+    "e_RV",
+    "r_RV",
+    "U",
+    "e_U",
+    "V",
+    "e_V",
+    "W",
+    "e_W",
+    "Gmag",
+    "e_Gmag",
+    "GBPmag",
+    "e_GBPmag",
+    "GRPmag",
+    "e_GRPmag",
+    "Pop",
+    "SimbadName"
+   ],
+   "min_sep_deg": 0.4767051123264496,
+   "plx_pct": [
+    4.523020067214966,
+    6.916999816894531,
+    9.282479705810564
+   ],
+   "pmra_pct": [
+    2.102260022163391,
+    8.357000350952148,
+    14.175500278472903
+   ],
+   "pmdec_pct": [
+    -28.65721920013428,
+    -20.993000030517578,
+    -11.503539772033681
+   ],
+   "n_within_target_box": 0
+  },
+  "J/AJ/156/271/Candidates": {
+   "n": 153,
+   "cols": [
+    "_RAJ2000",
+    "_DEJ2000",
+    "_r",
+    "recno",
+    "Region",
+    "2MASS",
+    "OName",
+    "RAJ2000",
+    "DEJ2000",
+    "pmRA",
+    "e_pmRA",
+    "pmDE",
+    "e_pmDE",
+    "plx",
+    "e_plx",
+    "Gmag",
+    "e_Gmag",
+    "GBPmag",
+    "e_GBPmag",
+    "GRPmag",
+    "e_GRPmag",
+    "Jmag",
+    "e_Jmag",
+    "Hmag",
+    "e_Hmag",
+    "Ksmag",
+    "e_Ksmag",
+    "SimbadName"
+   ],
+   "min_sep_deg": 0.486871475358936,
+   "plx_pct": [
+    5.200080051422119,
+    8.013999938964844,
+    8.581960258483887
+   ],
+   "pmra_pct": [
+    -4.2650001335144045,
+    3.8919999599456787,
+    13.754680290222163
+   ],
+   "pmdec_pct": [
+    -26.91868019104004,
+    -15.670000076293945,
+    -12.632679901123048
+   ],
+   "n_within_target_box": 0
+  }
+ },
+ "Taurus_Krolikowski2021": {
+  "J/AJ/162/110/table1": {
+   "n": 587,
+   "cols": [
+    "_RAJ2000",
+    "_DEJ2000",
+    "_r",
+    "recno",
+    "Gaia",
+    "Name",
+    "2MASS",
+    "RA_ICRS",
+    "DE_ICRS",
+    "Gmag",
+    "Internal",
+    "Kraus17",
+    "Luhman18",
+    "Esplin19",
+    "Galli19",
+    "Jmag",
+    "e_Jmag",
+    "r_Jmag",
+    "f_Jmag",
+    "RVel",
+    "e_RVel",
+    "r_RVel",
+    "SpType",
+    "e_SpType",
+    "r_SpType",
+    "f_SpType",
+    "Amag",
+    "e_Amag",
+    "Band",
+    "r_Amag",
+    "X",
+    "Y",
+    "Z",
+    "U",
+    "V",
+    "W",
+    "GMM",
+    "Bin",
+    "SysArc",
+    "r_Bin"
+   ],
+   "min_sep_deg": 0.476698873341249
+  },
+  "J/AJ/162/110/table2": {
+   "n": 71,
+   "cols": [
+    "_RAJ2000",
+    "_DEJ2000",
+    "_r",
+    "recno",
+    "Name",
+    "2MASS",
+    "RAJ2000",
+    "DEJ2000",
+    "Internal",
+    "Kraus17",
+    "Luhman18",
+    "Esplin19",
+    "Galli19",
+    "Jmag",
+    "e_Jmag",
+    "r_Jmag",
+    "f_Jmag",
+    "RVel",
+    "e_RVel",
+    "r_RVel",
+    "SpType",
+    "e_SpType",
+    "E_SpType",
+    "r_SpType",
+    "f_SpType",
+    "Amag",
+    "e_Amag",
+    "Band",
+    "r_Amag",
+    "Bin",
+    "SysArc",
+    "r_Bin"
+   ],
+   "min_sep_deg": 1.1614572345645704
+  }
+ },
+ "Hyades_GaiaCollab2018": {
+  "J/A+A/616/A10/tablea1a": {
+   "n": 1740,
+   "cols": [
+    "_RAJ2000",
+    "_DEJ2000",
+    "_r",
+    "recno",
+    "Source",
+    "Cluster",
+    "RAdeg",
+    "DEdeg",
+    "Gmag",
+    "plx",
+    "e_plx",
+    "Simbad",
+    "_RA",
+    "_DE"
+   ],
+   "min_sep_deg": 0.1748700392088502
+  }
+ },
+ "Hyades_Lodieu2019": {
+  "J/A+A/623/A35/tablec1": {
+   "n": 574,
+   "cols": [
+    "_RAJ2000",
+    "_DEJ2000",
+    "_r",
+    "recno",
+    "ID",
+    "RAICRS",
+    "DEICRS",
+    "pmRA*",
+    "pmDE",
+    "Plx",
+    "Gmag",
+    "bx",
+    "by",
+    "bz",
+    "Dist",
+    "c",
+    "Mass",
+    "RV",
+    "_RA.icrs",
+    "_DE.icrs"
+   ],
+   "min_sep_deg": 0.1748700904038721
+  }
+ },
+ "target_UVW_kms_heliocentric": [
+  -65.18675334024545,
+  -20.764246830737303,
+  14.56051143692862
+ ],
+ "target_vtan_kms": 40.257110351543695
+}

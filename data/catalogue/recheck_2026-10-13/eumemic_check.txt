@@ -1,0 +1,1 @@
+Eumemic check, 2026-10-13: github.com/eumemic/exoplanets at commit da72261 (2026-10-13 07:39 UTC). All 29 files in results_public/ were downloaded and searched for "118598568", "247455141" and "144850112816196992": 0 matches in every file. The repository tree (6,762 entries) has no path containing either ID, and none of the 75 candidates/ folders is for TIC 118598568.

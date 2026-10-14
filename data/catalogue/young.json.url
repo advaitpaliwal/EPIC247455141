@@ -1,0 +1,4 @@
+VizieR query_region J/AJ/156/271 r=15deg around 69.53047 +21.84265 (astroquery)
+VizieR query_region J/AJ/162/110 r=15deg around 69.53047 +21.84265 (astroquery)
+VizieR query_region J/A+A/616/A10/tablea1a r=15deg around 69.53047 +21.84265 (astroquery)
+VizieR query_region J/A+A/623/A35 r=15deg around 69.53047 +21.84265 (astroquery)

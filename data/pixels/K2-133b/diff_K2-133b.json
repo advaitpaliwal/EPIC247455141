@@ -1,0 +1,60 @@
+{
+ "tpf": "pix/cmp_K2-133/mastDownload/K2/ktwo247887989-c13_lc/ktwo247887989-c13_lpd-targ.fits.gz",
+ "n_in_cadences": 40,
+ "n_fake": 60,
+ "target_pix_colrow": [
+  4.4177885229027245,
+  4.641335947743406
+ ],
+ "oot_centroid": [
+  5.100897026573144,
+  4.17406007759177
+ ],
+ "diff_centroid": [
+  5.0102849377552685,
+  4.256090993725068
+ ],
+ "diff_centroid_err": [
+  0.09311823534485142,
+  0.10126930038256372
+ ],
+ "offset_pix": [
+  -0.09061208881787586,
+  0.08203091613329772
+ ],
+ "offset_arcsec": 0.4864664282556274,
+ "offset_sigma": 1.2661128180046437,
+ "offset_from_gaia_pix": [
+  0.592496414852544,
+  -0.38524495401833825
+ ],
+ "peak_diff_pixel": [
+  5,
+  0
+ ],
+ "brightest_oot_pixel": [
+  5,
+  4
+ ],
+ "depth_ap_ppm": 864.7333015687764,
+ "depth_core4_ppm": 5528.690759092569,
+ "depth_ring_ppm": -15286.446548998356,
+ "depth_big_ppm": 814.7291955538094,
+ "depth_ap_err_ppm": 157.04391479492188,
+ "depth_core4_err_ppm": 2281.7392578125,
+ "depth_ring_err_ppm": 7703.75634765625,
+ "max_pixel_snr": 5.250386714935303,
+ "snr_summed_ap": 0.25606048107147217,
+ "null": {
+  "real_offset_arcsec": 0.4864664282556274,
+  "n_fake": 60,
+  "fake_offset_arcsec_pct": {
+   "p16": 0.43411584679997056,
+   "p50": 0.9520621569347786,
+   "p84": 2.3143890282603996,
+   "p95": 2.709003561177663
+  },
+  "frac_fake_offset_ge_real": 0.8,
+  "fake_depth_ap_std_ppm": 157.04391479492188
+ }
+}

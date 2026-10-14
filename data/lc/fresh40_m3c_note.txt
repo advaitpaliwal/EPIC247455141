@@ -1,0 +1,1 @@
+fresh40_m3c = lc/fresh40_m3.npz minus 12 flattened cadences in BKJD 3038.70-3038.95 (signal-d epoch 5, Tc 3038.823): with d masked in the 40-window SFF cadence_mask the correction extrapolates to +52% flux there (max f 1.518). Remaining 3595 cadences, std 840 ppm.

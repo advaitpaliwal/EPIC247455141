@@ -1,0 +1,2 @@
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?format=csv&query=select%20toi%2Ctid%2Cra%2Cdec%2Cpl_orbper%2Ctfopwg_disp%20from%20toi%20where%20ra%20between%2069.49428228738651%20and%2069.56610517691169%20and%20dec%20between%2021.809306200302863%20and%2021.875972866969533
+fetched 2026-10-13T21:40:41.172426+00:00

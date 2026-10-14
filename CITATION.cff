@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "EPIC 247455141: two small planet candidates at 3.07 and 5.46 days around an M dwarf from K2 Campaign 13"
+message: "If you use these candidates or data, please cite them as below."
+authors:
+  - family-names: Paliwal
+    given-names: Advait
+    email: advaitpaliwal@gmail.com
+date-released: 2026-10-13
+license: CC-BY-4.0

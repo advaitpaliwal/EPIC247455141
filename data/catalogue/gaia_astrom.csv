@@ -1,0 +1,2 @@
+source_id,ra,dec,pmra,pmra_error,pmdec,pmdec_error,parallax,parallax_error,astrometric_params_solved,ruwe,radial_velocity,phot_g_mean_mag,bp_rp,teff_gspphot,logg_gspphot,mh_gspphot,distance_gspphot,classprob_dsc_combmod_star,has_xp_continuous
+144850112816196992,69.53046951614664,21.842649811547997,57.653082647125146,0.052999336,2.140724402083622,0.037215818,6.793599774927739,0.039632823,31,1.0302979,,15.56418,2.2941675,3714.8215,4.8398,-0.4713,144.8738,1.0000273E-6,true

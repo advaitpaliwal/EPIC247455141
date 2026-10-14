@@ -1,0 +1,14 @@
+[
+ {
+  "i": 0,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 0.6031283351530925,
+  "SDE": 13.905007849204603,
+  "snr": 7.002443969247749,
+  "depth_ppm": 263.78786100555993,
+  "recovered_period": false,
+  "n_transits_inj": null
+ }
+]
